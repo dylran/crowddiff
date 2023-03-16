@@ -6,8 +6,8 @@ This repository contains the codes for the PyTorch implementation of the paper [
 
 ### Visualized demos
 <p float="left">
-  <img src="figs/jhu 01.gif" width="410" height="200"/>
-  <img src="figs/jhu 02.gif" width="410" height="200"/>
-  <img src="figs/shha.gif" width="410" height="200"/>
-  <img src="figs/qnrf.gif" width="410" height="200"/>
+  <img src="figs/jhu 01.gif" width="510" height="250"/>
+  <img src="figs/jhu 02.gif" width="510" height="250"/>
+  <img src="figs/shha.gif" width="510" height="250"/>
+  <img src="figs/ucf qnrf.gif" width="510" height="250"/>
 </p>
