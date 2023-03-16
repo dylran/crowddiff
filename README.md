@@ -1,2 +1,2 @@
-# DiffusionCrowdCount
+# DiffuseDenoiseCount
 Codes coming soon!
