@@ -25,3 +25,9 @@ This repository contains the codes for the PyTorch implementation of the paper [
   <img src="figs/trial4 360.jpg" width="263" height="172"/>
 </p>
 &emsp;   &emsp;   &emsp;  &nbsp; Final Prediction: 359 &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; Trial 3: 356 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 4: 360
+<p float="left">
+  <img src="figs/gt 361.jpg" width="263" height="172"/>
+  <img src="figs/trial1 349.jpg" width="263" height="172"/>
+  <img src="figs/trial2 351.jpg" width="263" height="172"/>
+</p>
+&emsp;   &emsp;   &emsp;  &nbsp; Ground Truth: 361  &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; &emsp; Trial 1: 361 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 2: 361
