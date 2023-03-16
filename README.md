@@ -18,7 +18,7 @@ This repository contains the codes for the PyTorch implementation of the paper [
   <img src="figs/trial1 349.jpg" width="263" height="172"/>
   <img src="figs/trial2 351.jpg" width="263" height="172"/>
 </p>
-&emsp;   &emsp;   &emsp;  &nbsp; Ground Truth: 361  &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; &emsp; Trial 1: 361 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 2: 361</br>
+&emsp;   &emsp;   &emsp;  &nbsp; Ground Truth: 361  &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; &emsp; Trial 1: 361 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 2: 361
 <p float="left">
   <img src="figs/final 359.jpg" width="263" height="172"/>
   <img src="figs/trial3 356.jpg" width="263" height="172"/>
