@@ -14,8 +14,8 @@ This repository contains the codes for the PyTorch implementation of the paper [
 
 ### Visualized demos for crowd maps and stochastic generation
 <p float="left">
-  <img src="figs/final 359.jpg" width="263" height="172"/>
+  <img src="figs/gt 361.jpg" width="263" height="172"/>
   <img src="figs/trial1 349.jpg" width="263" height="172"/>
   <img src="figs/trial2 351" width="263" height="172"/>
 </p>
-| &nbsp; Video &nbsp;  | Pred. &nbsp;| &nbsp; Error &nbsp; | &nbsp; &nbsp; CAT &nbsp; | Mask | &nbsp; |  Video  | Pred. &nbsp;| &nbsp; Error &nbsp; | &nbsp; &nbsp; CAT  &nbsp; | Mask &nbsp; |
+| &nbsp; Ground Truth: 361 &nbsp;  | Ground Truth: 361 &nbsp;| &nbsp; Ground Truth: 361 &nbsp; |
