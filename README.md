@@ -19,3 +19,7 @@ This repository contains the codes for the PyTorch implementation of the paper [
   <img src="figs/trial2 351" width="263" height="172"/>
 </p>
 Ground Truth: 361                               Ground Truth: 361 Ground Truth: 361
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
