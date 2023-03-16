@@ -18,4 +18,4 @@ This repository contains the codes for the PyTorch implementation of the paper [
   <img src="figs/trial1 349.jpg" width="263" height="172"/>
   <img src="figs/trial2 351" width="263" height="172"/>
 </p>
-&emsp; Ground Truth: 361 &nbsp; Ground Truth: 361 &nbsp; &nbsp; Ground Truth: 361 &nbsp; |
+&emsp; Ground Truth: 361 &emsp; Ground Truth: 361 &emsp; &emsp; Ground Truth: 361 &emsp;
