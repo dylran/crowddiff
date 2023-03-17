@@ -26,6 +26,22 @@ This repository contains the codes for the PyTorch implementation of the paper [
 </p>
 &emsp;   &emsp;   &emsp;  &nbsp; Final Prediction: 359 &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; Trial 3: 356 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 4: 360
 
-## Training
+## Installing
 - Install python dependencies. We use python 3.9.7 and PyTorch 1.13.1.<br />
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
+
+## Dataset preparation
+- Run the preprocessing script.<br />
+```
+python cc_utils/preprocess_shtech.py \
+    --data_dir path/to/data \
+    --output_dir path/to/save \
+    --dataset dataset \
+    --mode test \
+    --image_size 256 \
+    --ndevices 1 \
+    --sigma '0.5' \
+    --kernel_size '3' \
+```
