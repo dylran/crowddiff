@@ -74,12 +74,4 @@ CUDA_VISIBLE_DEVICES=0 python scripts/super_res_sample.py $DATA_DIR $LOG_DIR $TR
 Part of the codes are borrowed from [guided-diffusion](https://github.com/openai/guided-diffusion) codebase.
 
 
-
-## Citation:
-<!-- please make all buttons orange, including this one! -->
-<! --@article{bandara2022adamae,
-  title={AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders},
-  author={Bandara, Wele Gedara Chaminda and Patel, Naman and Gholami, Ali and Nikkhah, Mehdi and Agrawal, Motilal and Patel, Vishal M},
-  journal={arXiv preprint arXiv:2211.09120},
-  year={2022}
-}-->
+<!-- add the citation of the paper! -->
