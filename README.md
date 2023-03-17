@@ -76,6 +76,7 @@ Part of the codes are borrowed from [guided-diffusion](https://github.com/openai
 
 
 ## Citation:
+<! -- 
 ```
 @article{bandara2022adamae,
   title={AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders},
@@ -84,3 +85,4 @@ Part of the codes are borrowed from [guided-diffusion](https://github.com/openai
   year={2022}
 }
 ```
+-->
