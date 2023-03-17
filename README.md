@@ -76,13 +76,11 @@ Part of the codes are borrowed from [guided-diffusion](https://github.com/openai
 
 
 ## Citation:
-<! -- 
-```
+<! --```
 @article{bandara2022adamae,
   title={AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders},
   author={Bandara, Wele Gedara Chaminda and Patel, Naman and Gholami, Ali and Nikkhah, Mehdi and Agrawal, Motilal and Patel, Vishal M},
   journal={arXiv preprint arXiv:2211.09120},
   year={2022}
 }
-```
--->
+```-->
