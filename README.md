@@ -27,5 +27,5 @@ This repository contains the codes for the PyTorch implementation of the paper [
 &emsp;   &emsp;   &emsp;  &nbsp; Final Prediction: 359 &emsp;   &emsp;   &emsp;   &emsp; &emsp;   &emsp; Trial 3: 356 &emsp;   &emsp;   &emsp;   &emsp;   &emsp; &emsp; &emsp;   &emsp; &emsp; Trial 4: 360
 
 ## Training
-- Install python dependencies. We use python 3.9.7 and PyTorch 1.13.1.
+- Install python dependencies. We use python 3.9.7 and PyTorch 1.13.1.<br />
 ```pip install -r requirements.txt```
