@@ -76,6 +76,7 @@ Part of the codes are borrowed from [guided-diffusion](https://github.com/openai
 
 
 ## Citation:
+<!-- please make all buttons orange, including this one! -->
 <! --```
 @article{bandara2022adamae,
   title={AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders},
