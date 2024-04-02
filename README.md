@@ -1,4 +1,4 @@
-# Diffuse-Denoise-Count: Accurate Crowd Counting with Diffusion Models
+# <em>CrowdDiff</em>: Multi-hypothesis Crowd Density Estimation using Diffusion Models
 This repository contains the codes for the PyTorch implementation of the paper [Diffuse-Denoise-Count: Accurate Crowd Counting with Diffusion Models]
 
 ### Method
